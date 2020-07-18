@@ -1,0 +1,36 @@
+Title: Correlation of obesity and food options by city population
+
+Project Description:
+Exploring the correlation between number and type of restaurants and obesity rate in the top 
+300 cities by population
+
+1. Does the amount of restaurants in a city equal a higher obesity rate (for the top 300 cities
+   by population)
+   - List of 300 cities by population
+   - Obesity rate per city (rank)
+   - List of total number of restaurants in each city
+   
+2. Can the type of restaurant in a city be a predictor of a city's economic standing
+   (Have a focus on cuisine, breakdown - Yelp API?)
+
+3. Does a city with a higher economic standing have a lower obesity rate
+   - Can use previous data sets to determine this/arrive at a conclusion
+
+4. Is there a particular correlation between cuisine/type of restaurant and obesity
+   - Can use previous data sets to determine this/arrive at a conclusion
+
+5. Is there a correlation between economic status and cuisine 
+
+
+Does the amount of restaurants in a given city equal a higher obesity rate and can restaurant 
+type be a predictor of a cities economic standing?  
+(Economic Standing = Do the citizens tend to be wealthier or 
+worse off the national average)
+
+Definition:  Restaurants – food-serving establishments open to the public
+Source: https://mn.gov/deed/newscenter/publications/review/august-2019/locations-restaurants.jsp (edited) 
+
+
+
+
+
