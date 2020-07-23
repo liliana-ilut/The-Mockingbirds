@@ -1,0 +1,36 @@
+Project 1 Bookmarks
+
+City Dataset Acquired from
+https://www.census.gov/data/datasets/time-series/demo/popest/2010s-total-cities-and-towns.html#ds
+
+Incorporated Places: 2010 to 2019 (Found under Tables - United States file)
+https://www2.census.gov/programs-surveys/popest/tables/2010-2019/cities/totals/SUB-IP-EST2019-ANNRES.xlsx
+
+
+
+
+Restaurant classifications
+https://mn.gov/deed/newscenter/publications/review/august-2019/locations-restaurants.jsp
+
+Database Portal
+https://www.denverlibrary.org/research
+ 	- Refrence USA (Consumer)
+	- Demographics Now (Includes Mosaic Now)
+	- Business Insights (Industry and Articles)
+	- First Research (Industry, Dun and Bradstreet)
+	- ABI Inform Articles
+
+
+
+
+
+
+
+
+Relavent resources for old dataset
+Explanation of Consolidate City-County
+https://www.fema.gov/media-library-data/20130726-1825-25045-4451/city_county_consol.pdf
+
+Breakdown of SUMLEV key data
+https://www2.census.gov/programs-surveys/popest/technical-documentation/file-layouts/2010-2019/sub-est2019.pdf
+
