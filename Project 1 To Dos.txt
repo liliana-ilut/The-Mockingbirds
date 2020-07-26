@@ -15,7 +15,7 @@ Exploring the correlation between number and type of restaurants and obesity rat
    - List of total number of restaurants in each city (county)
 	Source: https://www.census.gov/data/tables/2016/econ/cbp/2016-combined-report.html
    
-2. Can the type of restaurant in a city be a predictor of a city's economic standing
+2. Can the amount of restaurants in a city be a predictor of a city's economic standing
    (Have a focus on cuisine, breakdown - Yelp API?)
 
 3. Does a city with a higher economic standing have a lower obesity rate

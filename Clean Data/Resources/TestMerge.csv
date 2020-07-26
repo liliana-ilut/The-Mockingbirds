@@ -1,304 +1,291 @@
 Location,Population,Obesity Percentage,Lower Limit,Upper Limit
-"Ada County,   Idaho",469966,,,
-"Adams County,   Colorado",511868,,,
-"Alachua County,   Florida",269956,,,
-"Alameda County,   California",1666753,,,
-"Albany County,   New York",307117,,,
-"Allegheny County,   Pennsylvania",1218452,,,
-"Allen County,   Indiana",375351,,,
-"Anchorage Municipality,   Alaska",291538,,,
-"Anne Arundel County,   Maryland",576031,,,
-"Anoka County,   Minnesota",353813,,,
-"Arapahoe County,   Colorado",651215,,,
-"Arlington County,   Virginia",237521,,,
-"Atlantic County,   New Jersey",265429,,,
-"Baltimore County,   Maryland",828431,,,
-"Baltimore city,   Maryland",602495,,,
-"Bell County,   Texas",355642,,,
-"Benton County,   Arkansas",272608,,,
-"Bergen County,   New Jersey",936692,,,
-"Berks County,   Pennsylvania",420152,,,
-"Bernalillo County,   New Mexico",678701,,,
-"Bexar County,   Texas",1986049,,,
-"Boulder County,   Colorado",326078,,,
-"Brazoria County,   Texas",370200,,,
-"Brazos County,   Texas",226758,,,
-"Brevard County,   Florida",596849,,,
-"Bristol County,   Massachusetts",564022,,,
-"Bronx County,   New York",1432132,,,
-"Broward County,   Florida",1951260,,,
-"Brown County,   Wisconsin",263378,,,
-"Bucks County,   Pennsylvania",628195,,,
-"Buncombe County,   North Carolina",259103,,,
-"Burlington County,   New Jersey",445384,,,
-"Butler County,   Ohio",382378,,,
-"Butte County,   California",231256,,,
-"Caddo Parish,   Louisiana",242922,,,
-"Camden County,   New Jersey",507078,,,
-"Cameron County,   Texas",423908,,,
-"Charleston County,   South Carolina",405905,,,
-"Chatham County,   Georgia",289195,,,
-"Cherokee County,   Georgia",254149,,,
-"Chesapeake city,   Virginia",242634,,,
-"Chester County,   Pennsylvania",522046,,,
-"Chesterfield County,   Virginia",348556,,,
-"Clackamas County,   Oregon",416075,,,
-"Clark County,   Nevada",2231647,,,
-"Clark County,   Washington",481857,,,
-"Clay County,   Missouri",246365,,,
-"Clayton County,   Georgia",289615,,,
-"Cleveland County,   Oklahoma",281669,,,
-"Cobb County,   Georgia",756865,,,
-"Collier County,   Florida",378488,,,
-"Collin County,   Texas",1005146,,,
-"Contra Costa County,   California",1150215,,,
-"Cook County,   Illinois",5180493,,,
-"Cumberland County,   Maine",293557,,,
-"Cumberland County,   North Carolina",332330,,,
-"Cumberland County,   Pennsylvania",251423,,,
-"Cuyahoga County,   Ohio",1243857,,,
-"Dakota County,   Minnesota",425423,,,
-"Dallas County,   Texas",2637772,,,
-"Dane County,   Wisconsin",542364,,,
-"Dauphin County,   Pennsylvania",277097,,,
-"Davidson County,   Tennessee",692587,,,
-"Davis County,   Utah",351713,,,
-"DeKalb County,   Georgia",756558,,,
-"Delaware County,   Pennsylvania",564751,,,
-"Denton County,   Texas",859064,,,
-"Denver County,   Colorado",716492,,,
-"District of Columbia,   District of Columbia",702455,,,
-"Douglas County,   Colorado",342776,,,
-"Douglas County,   Nebraska",566880,,,
-"DuPage County,   Illinois",928589,,,
-"Durham County,   North Carolina",316739,,,
-"Dutchess County,   New York",293718,,,
-"Duval County,   Florida",950181,,,
-"East Baton Rouge Parish,   Louisiana",440956,,,
-"El Paso County,   Colorado",713856,,,
-"El Paso County,   Texas",840758,,,
-"Erie County,   New York",919719,,,
-"Erie County,   Pennsylvania",272061,,,
-"Escambia County,   Florida",315534,,,
-"Essex County,   Massachusetts",790638,,,
-"Essex County,   New Jersey",799767,,,
-"Fairfax County,   Virginia",1150795,,,
-"Fairfield County,   Connecticut",943823,,,
-"Fayette County,   Kentucky",323780,,,
-"Forsyth County,   Georgia",236612,,,
-"Forsyth County,   North Carolina",379099,,,
-"Fort Bend County,   Texas",787858,,,
-"Franklin County,   Ohio",1310300,,,
-"Frederick County,   Maryland",255648,,,
-"Fresno County,   California",994400,,,
-"Fulton County,   Georgia",1050114,,,
-"Galveston County,   Texas",337890,,,
-"Genesee County,   Michigan",406892,,,
-"Gloucester County,   New Jersey",291408,,,
-"Greene County,   Missouri",291923,,,
-"Greenville County,   South Carolina",514213,,,
-"Guilford County,   North Carolina",533670,,,
-"Gwinnett County,   Georgia",927781,,,
-"Hamilton County,   Indiana",330086,,,
-"Hamilton County,   Ohio",816684,,,
-"Hamilton County,   Tennessee",364286,,,
-"Hampden County,   Massachusetts",470406,,,
-"Harford County,   Maryland",253956,,,
-"Harris County,   Texas",4698619,,,
-"Hartford County,   Connecticut",892697,,,
-"Hennepin County,   Minnesota",1259428,,,
-"Henrico County,   Virginia",329261,,,
-"Henry County,   Georgia",230220,,,
-"Hidalgo County,   Texas",865939,,,
-"Hillsborough County,   Florida",1436888,,,
-"Hillsborough County,   New Hampshire",415247,,,
-"Hinds County,   Mississippi",237085,,,
-"Honolulu County,   Hawaii",980080,,,
-"Horry County,   South Carolina",344147,,,
-"Howard County,   Maryland",323196,,,
-"Hudson County,   New Jersey",676061,,,
-"Ingham County,   Michigan",292735,,,
-"Jackson County,   Missouri",700307,,,
-"Jefferson County,   Alabama",659300,,,
-"Jefferson County,   Colorado",580233,,,
-"Jefferson County,   Kentucky",770517,,,
-"Jefferson County,   Texas",255001,,,
-"Jefferson Parish,   Louisiana",434051,,,
-"Johnson County,   Kansas",597555,,,
-"Kalamazoo County,   Michigan",264870,,,
-"Kane County,   Illinois",534216,,,
-"Kent County,   Michigan",653786,,,
-"Kern County,   California",896764,,,
-"King County,   Washington",2233163,,,
-"Kings County,   New York",2582830,,,
-"Kitsap County,   Washington",269805,,,
-"Knox County,   Tennessee",465289,,,
-"Lafayette Parish,   Louisiana",242782,,,
-"Lake County,   Florida",356495,,,
-"Lake County,   Illinois",700832,,,
-"Lake County,   Indiana",484411,,,
-"Lake County,   Ohio",230514,,,
-"Lancaster County,   Nebraska",317272,,,
-"Lancaster County,   Pennsylvania",543557,,,
-"Lane County,   Oregon",379611,,,
-"Larimer County,   Colorado",350518,,,
-"Lee County,   Florida",754610,,,
-"Lehigh County,   Pennsylvania",368100,,,
-"Leon County,   Florida",292502,,,
-"Lexington County,   South Carolina",295032,,,
-"Linn County,   Iowa",225909,,,
-"Lorain County,   Ohio",309461,,,
-"Los Angeles County,   California",10105518,,,
-"Loudoun County,   Virginia",406850,,,
-"Lubbock County,   Texas",307412,,,
-"Lucas County,   Ohio",429899,,,
-"Luzerne County,   Pennsylvania",317646,,,
-"Macomb County,   Michigan",874759,,,
-"Madison County,   Alabama",366519,,,
-"Madison County,   Illinois",264461,,,
-"Mahoning County,   Ohio",229642,,,
-"Manatee County,   Florida",394855,,,
-"Maricopa County,   Arizona",4410824,,,
-"Marin County,   California",259666,,,
-"Marion County,   Florida",359977,,,
-"Marion County,   Indiana",954670,,,
-"Marion County,   Oregon",346868,,,
-"McHenry County,   Illinois",308570,,,
-"McLennan County,   Texas",254607,,,
-"Mecklenburg County,   North Carolina",1093901,,,
-"Merced County,   California",274765,,,
-"Mercer County,   New Jersey",369811,,,
-"Miami-Dade County,   Florida",2761581,,,
-"Middlesex County,   Massachusetts",1614714,,,
-"Middlesex County,   New Jersey",829685,,,
-"Milwaukee County,   Wisconsin",948201,,,
-"Mobile County,   Alabama",413757,,,
-"Monmouth County,   New Jersey",621354,,,
-"Monroe County,   New York",742474,,,
-"Monterey County,   California",435594,,,
-"Montgomery County,   Alabama",225763,,,
-"Montgomery County,   Maryland",1052567,,,
-"Montgomery County,   Ohio",532331,,,
-"Montgomery County,   Pennsylvania",828604,,,
-"Montgomery County,   Texas",590925,,,
-"Morris County,   New Jersey",494228,,,
-"Multnomah County,   Oregon",811880,,,
-"Nassau County,   New York",1358343,,,
-"New Castle County,   Delaware",559335,,,
-"New Hanover County,   North Carolina",232274,,,
-"New Haven County,   Connecticut",857620,,,
-"New London County,   Connecticut",266784,,,
-"New York County,   New York",1628701,,,
-"Norfolk County,   Massachusetts",705388,,,
-"Norfolk city,   Virginia",244076,,,
-"Northampton County,   Pennsylvania",304807,,,
-"Nueces County,   Texas",362265,,,
-"Oakland County,   Michigan",1259201,,,
-"Ocean County,   New Jersey",601651,,,
-"Oklahoma County,   Oklahoma",792582,,,
-"Oneida County,   New York",229577,,,
-"Onondaga County,   New York",461809,,,
-"Orange County,   California",3185968,,,
-"Orange County,   Florida",1380645,,,
-"Orange County,   New York",381951,,,
-"Orleans Parish,   Louisiana",391006,,,
-"Osceola County,   Florida",367990,,,
-"Ottawa County,   Michigan",290494,,,
-"Palm Beach County,   Florida",1485941,,,
-"Pasco County,   Florida",539630,,,
-"Passaic County,   New Jersey",503310,,,
-"Philadelphia County,   Pennsylvania",1584138,,,
-"Pierce County,   Washington",891299,,,
-"Pima County,   Arizona",1039073,,,
-"Pinal County,   Arizona",447138,,,
-"Pinellas County,   Florida",975280,,,
-"Placer County,   California",393149,,,
-"Plymouth County,   Massachusetts",518132,,,
-"Polk County,   Florida",708009,,,
-"Polk County,   Iowa",487204,,,
-"Prince George's County,   Maryland",909308,,,
-"Prince William County,   Virginia",468011,,,
-"Providence County,   Rhode Island",636084,,,
-"Pulaski County,   Arkansas",392680,,,
-"Queens County,   New York",2278906,,,
-"Ramsey County,   Minnesota",550210,,,
-"Richland County,   South Carolina",414576,,,
-"Richmond County,   New York",476179,,,
-"Richmond city,   Virginia",228783,,,
-"Riverside County,   California",2450758,,,
-"Rockingham County,   New Hampshire",309176,,,
-"Rockland County,   New York",325695,,,
-"Rutherford County,   Tennessee",324890,,,
-"Sacramento County,   California",1540975,,,
-"Salt Lake County,   Utah",1152633,,,
-"San Bernardino County,   California",2171603,,,
-"San Diego County,   California",3343364,,,
-"San Francisco County,   California",883305,,,
-"San Joaquin County,   California",752660,,,
-"San Luis Obispo County,   California",284010,,,
-"San Mateo County,   California",769545,,,
-"Santa Barbara County,   California",446527,,,
-"Santa Clara County,   California",1937570,,,
-"Santa Cruz County,   California",274255,,,
-"Sarasota County,   Florida",426718,,,
-"Saratoga County,   New York",230163,,,
-"Sedgwick County,   Kansas",513607,,,
-"Seminole County,   Florida",467832,,,
-"Shelby County,   Tennessee",935764,,,
-"Smith County,   Texas",230221,,,
-"Snohomish County,   Washington",814901,,,
-"Solano County,   California",446610,,,
-"Somerset County,   New Jersey",331164,,,
-"Sonoma County,   California",499942,,,
-"Spartanburg County,   South Carolina",313888,,,
-"Spokane County,   Washington",514631,,,
-"St. Charles County,   Missouri",399182,,,
-"St. Clair County,   Illinois",261059,,,
-"St. Johns County,   Florida",254261,,,
-"St. Joseph County,   Indiana",270771,,,
-"St. Louis County,   Missouri",996945,,,
-"St. Louis city,   Missouri",302838,,,
-"St. Lucie County,   Florida",321128,,,
-"St. Tammany Parish,   Louisiana",258111,,,
-"Stanislaus County,   California",549815,,,
-"Stark County,   Ohio",371574,,,
-"Suffolk County,   Massachusetts",807252,,,
-"Suffolk County,   New York",1481093,,,
-"Summit County,   Ohio",541918,,,
-"Sussex County,   Delaware",229286,,,
-"Tarrant County,   Texas",2084931,,,
-"Thurston County,   Washington",286419,,,
-"Travis County,   Texas",1248743,,,
-"Tulare County,   California",465861,,,
-"Tulsa County,   Oklahoma",648360,,,
-"Union County,   New Jersey",558067,,,
-"Union County,   North Carolina",235908,,,
-"Utah County,   Utah",622213,,,
-"Ventura County,   California",850967,,,
-"Virginia Beach city,   Virginia",450189,,,
-"Volusia County,   Florida",547538,,,
-"Wake County,   North Carolina",1092305,,,
-"Warren County,   Ohio",232173,,,
-"Washington County,   Arkansas",236961,,,
-"Washington County,   Minnesota",259201,,,
-"Washington County,   Oregon",597695,,,
-"Washoe County,   Nevada",465735,,,
-"Washtenaw County,   Michigan",370963,,,
-"Waukesha County,   Wisconsin",403072,,,
-"Wayne County,   Michigan",1753893,,,
-"Webb County,   Texas",275910,,,
-"Weber County,   Utah",256359,,,
-"Weld County,   Colorado",314305,,,
-"Westchester County,   New York",967612,,,
-"Westmoreland County,   Pennsylvania",350611,,,
-"Whatcom County,   Washington",225685,,,
-"Will County,   Illinois",692310,,,
-"Williamson County,   Tennessee",231729,,,
-"Williamson County,   Texas",566719,,,
-"Winnebago County,   Illinois",284081,,,
-"Worcester County,   Massachusetts",830839,,,
-"Yakima County,   Washington",251446,,,
-"Yavapai County,   Arizona",231993,,,
-"York County,   Pennsylvania",448273,,,
-"York County,   South Carolina",274118,,,
-,702455,,,
+"Los Angeles County,  California",10105518,21.4,20.2,22.7
+"Cook County,  Illinois",5180493,27.7,26.5,29
+"Harris County,  Texas",4698619,27.6,25.5,29.7
+"Maricopa County,  Arizona",4410824,26.9,26,27.8
+"San Diego County,  California",3343364,20.2,18.5,21.7
+"Orange County,  California",3185968,19,17.3,20.8
+"Miami-Dade County,  Florida",2761581,21.8,19.4,24.7
+"Dallas County,  Texas",2637772,29.8,26.9,32.6
+"Kings County,  New York",2582830,22.6,21.2,24.1
+"Riverside County,  California",2450758,27,24.5,29.6
+"Queens County,  New York",2278906,23,21.2,24.7
+"King County,  Washington",2233163,21.9,21,22.8
+"Clark County,  Nevada",2231647,25.3,23.8,27
+"San Bernardino County,  California",2171603,28.6,25.8,31.5
+"Tarrant County,  Texas",2084931,29.3,26.4,32.1
+"Bexar County,  Texas",1986049,28.5,25.4,31.8
+"Broward County,  Florida",1951260,24.4,22.2,26.8
+"Santa Clara County,  California",1937570,19.2,17.2,21.3
+"Wayne County,  Michigan",1753893,34.4,32.8,36
+"Alameda County,  California",1666753,19.2,17.3,21.5
+"New York County,  New York",1628701,14.7,13.5,16
+"Middlesex County,  Massachusetts",1614714,21.6,20.4,22.9
+"Philadelphia County,  Pennsylvania",1584138,27.6,25.6,29.6
+"Sacramento County,  California",1540975,28.7,26.5,31
+"Palm Beach County,  Florida",1485941,21.1,18.8,23.6
+"Suffolk County,  New York",1481093,24,21.8,26.2
+"Hillsborough County,  Florida",1436888,24.1,22,26.2
+"Bronx County,  New York",1432132,28.8,26.3,31.7
+"Orange County,  Florida",1380645,25.2,22.9,27.6
+"Nassau County,  New York",1358343,23,20.9,25.4
+"Franklin County,  Ohio",1310300,29.8,27.9,31.7
+"Hennepin County,  Minnesota",1259428,22.3,21.4,23.3
+"Oakland County,  Michigan",1259201,24.5,22.8,26.3
+"Travis County,  Texas",1248743,22,20.2,23.7
+"Cuyahoga County,  Ohio",1243857,30.2,27.9,32.7
+"Allegheny County,  Pennsylvania",1218452,27.5,25.6,29.6
+"Salt Lake County,  Utah",1152633,24.7,23.7,25.7
+"Fairfax County,  Virginia",1150795,21.3,19.3,23.3
+"Contra Costa County,  California",1150215,23.8,21,26.7
+"Mecklenburg County,  North Carolina",1093901,27.8,25.4,30.2
+"Wake County,  North Carolina",1092305,24.8,22.5,27.2
+"Montgomery County,  Maryland",1052567,20.8,19.6,22.3
+"Fulton County,  Georgia",1050114,24.8,22.6,27.3
+"Pima County,  Arizona",1039073,25.2,23.7,26.9
+"Collin County,  Texas",1005146,27.5,23.1,31.7
+"St. Louis County,  Missouri",996945,27.6,25.4,29.5
+"Fresno County,  California",994400,31.4,27.8,35.5
+"Honolulu County,  Hawaii",980080,23.7,22.8,24.5
+"Pinellas County,  Florida",975280,24.6,22.1,27.1
+"Westchester County,  New York",967612,20.3,18.3,22.3
+"Marion County,  Indiana",954670,32.4,30.7,34.1
+"Duval County,  Florida",950181,31.1,29,33.3
+"Milwaukee County,  Wisconsin",948201,32,30,34.2
+"Fairfield County,  Connecticut",943823,20.8,19.8,21.9
+"Bergen County,  New Jersey",936692,21.8,19.4,24.3
+"Shelby County,  Tennessee",935764,35.4,32.7,38.3
+"Gwinnett County,  Georgia",927781,29.9,26.9,33.2
+"Erie County,  New York",919719,29.7,27.5,32.3
+"Kern County,  California",896764,32.2,27.9,36.4
+"Hartford County,  Connecticut",892697,25.8,24.6,27.1
+"Pierce County,  Washington",891299,31,29.3,32.6
+"San Francisco County,  California",883305,18.5,15.9,21.4
+"Macomb County,  Michigan",874759,31.5,29.1,33.8
+"Hidalgo County,  Texas",865939,34.4,29.3,40.1
+"Denton County,  Texas",859064,24.9,20.4,29.7
+"New Haven County,  Connecticut",857620,27.8,26.4,29.2
+"Ventura County,  California",850967,20.3,17,23.8
+"El Paso County,  Texas",840758,28.5,24.4,32.8
+"Worcester County,  Massachusetts",830839,26.6,24.8,28.4
+"Middlesex County,  New Jersey",829685,25.5,23.2,28
+"Montgomery County,  Pennsylvania",828604,25.2,22.1,28.5
+"Baltimore County,  Maryland",828431,30.5,29,32.3
+"Hamilton County,  Ohio",816684,28.6,26.1,31.1
+"Snohomish County,  Washington",814901,28.6,27,30.3
+"Multnomah County,  Oregon",811880,23.6,21.9,25.2
+"Suffolk County,  Massachusetts",807252,21.7,20,23.4
+"Essex County,  New Jersey",799767,28.8,26.9,30.9
+"Oklahoma County,  Oklahoma",792582,30.6,28.8,32.4
+"Essex County,  Massachusetts",790638,24.5,22.6,26.7
+"Fort Bend County,  Texas",787858,28.7,23,34.8
+"Jefferson County,  Kentucky",770517,31.8,30.1,33.6
+"San Mateo County,  California",769545,20.7,17.6,24.2
+"Cobb County,  Georgia",756865,28.8,25.8,32
+"Lee County,  Florida",754610,26.1,23.3,29.3
+"San Joaquin County,  California",752660,32.5,28.4,36.5
+"Monroe County,  New York",742474,29,26.5,31.7
+"Denver County,  Colorado",716492,17,15.8,18.4
+"El Paso County,  Colorado",713856,22.2,20.7,23.7
+"Polk County,  Florida",708009,37.6,34.6,40.9
+"Norfolk County,  Massachusetts",705388,22.6,20.6,24.5
+"Lake County,  Illinois",700832,25,21.9,28.4
+"Jackson County,  Missouri",700307,31.8,29.7,33.9
+"Davidson County,  Tennessee",692587,29.7,26.7,32.9
+"Will County,  Illinois",692310,31.4,28.1,35.2
+"Bernalillo County,  New Mexico",678701,23.4,21.4,25.6
+"Hudson County,  New Jersey",676061,24.2,21.8,26.8
+"Jefferson County,  Alabama",659300,34.3,32,36.6
+"Kent County,  Michigan",653786,29.3,27.1,31.6
+"Arapahoe County,  Colorado",651215,21.9,20.3,23.4
+"Tulsa County,  Oklahoma",648360,31.1,29.1,33.2
+"Providence County,  Rhode Island",636084,29,27.9,30.2
+"Bucks County,  Pennsylvania",628195,26.2,22.5,30.1
+"Utah County,  Utah",622213,25.8,24.4,27.1
+"Monmouth County,  New Jersey",621354,24.5,21.8,27.3
+"Ocean County,  New Jersey",601651,27.7,25,30.7
+"Washington County,  Oregon",597695,29.7,27.5,32.1
+"Johnson County,  Kansas",597555,26.9,25.9,28
+"Brevard County,  Florida",596849,30,26.8,33.1
+"Montgomery County,  Texas",590925,25.8,20.7,31.1
+"Jefferson County,  Colorado",580233,20.1,18.5,21.6
+"Anne Arundel County,  Maryland",576031,29.1,27,30.9
+"Douglas County,  Nebraska",566880,29.9,28.5,31.3
+"Williamson County,  Texas",566719,29.8,26.5,33.4
+"Delaware County,  Pennsylvania",564751,26.3,22.3,30.6
+"Bristol County,  Massachusetts",564022,28.7,26.3,31
+"New Castle County,  Delaware",559335,28.3,26.8,30
+"Union County,  New Jersey",558067,24.6,22.1,27.3
+"Ramsey County,  Minnesota",550210,26,24.7,27.5
+"Stanislaus County,  California",549815,30.4,25.9,35.3
+"Volusia County,  Florida",547538,30.1,27.1,33.4
+"Lancaster County,  Pennsylvania",543557,32.1,27.4,36.9
+"Dane County,  Wisconsin",542364,22.5,19.6,25.3
+"Summit County,  Ohio",541918,29.7,26.5,33
+"Pasco County,  Florida",539630,32,28.8,35.3
+"Kane County,  Illinois",534216,28.2,24.7,32.4
+"Guilford County,  North Carolina",533670,33.3,29.7,37.2
+"Montgomery County,  Ohio",532331,33.1,30,36.5
+"Chester County,  Pennsylvania",522046,21.8,17.9,26
+"Plymouth County,  Massachusetts",518132,27.7,25.4,30.1
+"Spokane County,  Washington",514631,27.8,26,29.7
+"Greenville County,  South Carolina",514213,28.3,26.1,30.6
+"Sedgwick County,  Kansas",513607,33.5,32.4,34.7
+"Adams County,  Colorado",511868,27.7,25.7,29.8
+"Camden County,  New Jersey",507078,31.2,28.6,34.2
+"Passaic County,  New Jersey",503310,27,24.4,30.1
+"Sonoma County,  California",499942,22.2,18.8,25.9
+"Morris County,  New Jersey",494228,20.4,18,23
+"Polk County,  Iowa",487204,31.8,29.6,33.7
+"Lake County,  Indiana",484411,35.5,32.8,38.2
+"Clark County,  Washington",481857,30,27.9,32.4
+"Richmond County,  New York",476179,27.1,24.1,30.1
+"Hampden County,  Massachusetts",470406,31.2,28.6,34
+"Ada County,  Idaho",469966,25.3,23.3,27.3
+"Prince William County,  Virginia",468011,30,26.9,33.1
+"Seminole County,  Florida",467832,26.3,23.3,29.4
+"Tulare County,  California",465861,37.1,30.7,44
+"Washoe County,  Nevada",465735,23.1,21.3,25
+"Knox County,  Tennessee",465289,30.7,27.4,34.1
+"Onondaga County,  New York",461809,29.4,26.6,32
+"York County,  Pennsylvania",448273,31,27.1,35.4
+"Pinal County,  Arizona",447138,33.3,30.7,35.8
+"Solano County,  California",446610,30,25.2,34.7
+"Santa Barbara County,  California",446527,24.6,20.4,29.5
+"Burlington County,  New Jersey",445384,28.6,25.9,31.5
+"East Baton Rouge Parish,  Louisiana",440956,31.9,29.1,34.9
+"Monterey County,  California",435594,27.6,23,32.9
+"Jefferson Parish,  Louisiana",434051,33.3,29.8,36.8
+"Lucas County,  Ohio",429899,34.8,32,37.7
+"Sarasota County,  Florida",426718,21.5,18.6,24.7
+"Dakota County,  Minnesota",425423,28,26.1,29.9
+"Cameron County,  Texas",423908,30.9,25.5,36.7
+"Berks County,  Pennsylvania",420152,36.3,30.7,42.2
+"Clackamas County,  Oregon",416075,28.3,25.8,31
+"Hillsborough County,  New Hampshire",415247,27.6,26,29.3
+"Richland County,  South Carolina",414576,32.6,30.3,34.9
+"Mobile County,  Alabama",413757,36.5,34.1,39.1
+"Genesee County,  Michigan",406892,34.7,31.7,37.5
+"Loudoun County,  Virginia",406850,22.1,18.9,25.1
+"Charleston County,  South Carolina",405905,26.5,24.4,28.6
+"Waukesha County,  Wisconsin",403072,26,22.4,29.4
+"St. Charles County,  Missouri",399182,29.3,26.2,32.5
+"Manatee County,  Florida",394855,26.6,23.4,30.1
+"Placer County,  California",393149,20.3,16.8,24.2
+"Pulaski County,  Arkansas",392680,33.1,30.6,35.6
+"Orleans Parish,  Louisiana",391006,29.4,26.1,32.9
+"Butler County,  Ohio",382378,32.1,28,36.1
+"Orange County,  New York",381951,30.2,27.1,33.4
+"Lane County,  Oregon",379611,27.1,24.4,29.7
+"Forsyth County,  North Carolina",379099,32.8,29,36.7
+"Collier County,  Florida",378488,21.8,19,24.7
+"Allen County,  Indiana",375351,32.2,29.6,34.9
+"Stark County,  Ohio",371574,34.8,31,38.6
+"Washtenaw County,  Michigan",370963,24.4,22,27
+"Brazoria County,  Texas",370200,27.8,21.4,34.3
+"Mercer County,  New Jersey",369811,25.4,22.9,28.1
+"Lehigh County,  Pennsylvania",368100,30.8,26.5,35.3
+"Osceola County,  Florida",367990,29.9,26.4,33.7
+"Madison County,  Alabama",366519,32.8,29.4,36.5
+"Hamilton County,  Tennessee",364286,29.4,26.3,32.6
+"Nueces County,  Texas",362265,32.7,28.9,36.5
+"Marion County,  Florida",359977,30.7,27.7,34.1
+"Lake County,  Florida",356495,31.3,27.9,34.7
+"Bell County,  Texas",355642,34.9,29.9,40.4
+"Anoka County,  Minnesota",353813,29.7,27.7,31.6
+"Davis County,  Utah",351713,26.3,24.8,28
+"Westmoreland County,  Pennsylvania",350611,30.6,26.7,34.7
+"Larimer County,  Colorado",350518,20.1,18.1,22.1
+"Chesterfield County,  Virginia",348556,31.8,28.5,35
+"Marion County,  Oregon",346868,34,30.9,37.1
+"Horry County,  South Carolina",344147,30.8,28.7,33.1
+"Douglas County,  Colorado",342776,19.1,17.1,21.3
+"Galveston County,  Texas",337890,33.6,30.9,36.7
+"Cumberland County,  North Carolina",332330,33.9,30.3,37.7
+"Somerset County,  New Jersey",331164,21.5,19.1,24.2
+"Hamilton County,  Indiana",330086,25.5,23,28.1
+"Henrico County,  Virginia",329261,31.6,28.5,34.7
+"Boulder County,  Colorado",326078,15.1,13.4,17
+"Rockland County,  New York",325695,22.8,19.9,26
+"Rutherford County,  Tennessee",324890,35.9,31.4,40.6
+"Fayette County,  Kentucky",323780,26.7,23.9,29.6
+"Howard County,  Maryland",323196,24.8,22.4,27.3
+"St. Lucie County,  Florida",321128,29.9,26.5,33.7
+"Luzerne County,  Pennsylvania",317646,29.4,25,34.1
+"Lancaster County,  Nebraska",317272,28.7,27.3,30.2
+"Durham County,  North Carolina",316739,24.7,21.1,28.5
+"Escambia County,  Florida",315534,29.2,26.3,32.3
+"Weld County,  Colorado",314305,28.8,26.6,31.3
+"Spartanburg County,  South Carolina",313888,32.3,29.5,35.4
+"Lorain County,  Ohio",309461,36.3,31.6,41.4
+"Rockingham County,  New Hampshire",309176,25.7,23.6,27.6
+"Lubbock County,  Texas",307412,34.7,29.5,40.4
+"Albany County,  New York",307117,27,24.2,29.7
+"Northampton County,  Pennsylvania",304807,31.7,26.7,36.4
+"Lexington County,  South Carolina",295032,31.7,28.7,34.8
+"Dutchess County,  New York",293718,26.4,23.1,29.5
+"Cumberland County,  Maine",293557,22.8,21.2,24.4
+"Ingham County,  Michigan",292735,31.6,28.7,34.7
+"Leon County,  Florida",292502,30.7,28.2,33.3
+"Greene County,  Missouri",291923,33.1,28.8,37.7
+"Anchorage Municipality,  Alaska",291538,31.7,29.3,34.2
+"Gloucester County,  New Jersey",291408,30.5,27.6,33.2
+"Ottawa County,  Michigan",290494,27,23.7,30.6
+"Clayton County,  Georgia",289615,36.2,31.9,41.2
+"Chatham County,  Georgia",289195,32.3,27.6,37
+"Thurston County,  Washington",286419,29.8,27.2,32.4
+"Winnebago County,  Illinois",284081,33.3,28.2,38.3
+"San Luis Obispo County,  California",284010,25.3,20.4,30.2
+"Cleveland County,  Oklahoma",281669,34.6,31.5,38
+"Dauphin County,  Pennsylvania",277097,33.1,28.7,38.1
+"Webb County,  Texas",275910,37.7,27.5,49.2
+"Merced County,  California",274765,28.3,22.3,34.4
+"Santa Cruz County,  California",274255,18.6,14.5,23.2
+"York County,  South Carolina",274118,32.1,29.4,34.8
+"Benton County,  Arkansas",272608,29.2,25.8,32.7
+"Erie County,  Pennsylvania",272061,34.3,30.5,38.4
+"St. Joseph County,  Indiana",270771,32.7,29.5,36.2
+"Alachua County,  Florida",269956,26.9,24.4,29.8
+"Kitsap County,  Washington",269805,30.7,27.8,33.8
+"New London County,  Connecticut",266784,29.6,27.4,31.9
+"Atlantic County,  New Jersey",265429,29.1,26.1,32.1
+"Kalamazoo County,  Michigan",264870,31.4,27.9,35
+"Madison County,  Illinois",264461,36.8,31.2,42.7
+"Brown County,  Wisconsin",263378,32.5,28.5,37
+"St. Clair County,  Illinois",261059,36.8,31.2,42.7
+"Marin County,  California",259666,15.7,11.9,20.1
+"Washington County,  Minnesota",259201,24.3,22.2,26.7
+"Buncombe County,  North Carolina",259103,21.7,17.8,25.3
+"St. Tammany Parish,  Louisiana",258111,30.1,26.3,34.1
+"Weber County,  Utah",256359,31.2,29.1,33.1
+"Frederick County,  Maryland",255648,28.7,26.7,30.9
+"Jefferson County,  Texas",255001,34.9,30.1,40.1
+"St. Johns County,  Florida",254261,22.7,19.6,25.8
+"Cherokee County,  Georgia",254149,26.3,21.5,31.7
+"Harford County,  Maryland",253956,32,29,35
+"Yakima County,  Washington",251446,35,31.5,38.5
+"Cumberland County,  Pennsylvania",251423,28.9,23.9,33.9
+"Clay County,  Missouri",246365,33.1,29.5,36.7
+"Caddo Parish,  Louisiana",242922,40.1,36.3,44.2
+"Lafayette Parish,  Louisiana",242782,31,26.7,35.2
+"Arlington County,  Virginia",237521,20,17,23.3
+"Hinds County,  Mississippi",237085,37,33.5,40.7
+"Washington County,  Arkansas",236961,29.9,26.6,33.3
+"Forsyth County,  Georgia",236612,26.7,21.2,32.5
+"Union County,  North Carolina",235908,31.7,25.8,38
+"New Hanover County,  North Carolina",232274,26.3,22,30.8
+"Warren County,  Ohio",232173,27.4,22.9,32.4
+"Yavapai County,  Arizona",231993,23,19.9,26.1
+"Williamson County,  Tennessee",231729,20.7,16.3,26
+"Butte County,  California",231256,27.2,22.2,32.7
+"Lake County,  Ohio",230514,24.7,19.9,30
+"Smith County,  Texas",230221,34.5,28.4,41.3
+"Henry County,  Georgia",230220,35.6,29,41.7
+"Saratoga County,  New York",230163,25.5,22.7,28.5
+"Mahoning County,  Ohio",229642,31.4,27.4,36
+"Oneida County,  New York",229577,33.5,29.9,37.2
+"Sussex County,  Delaware",229286,32.6,30.7,34.7
+"Brazos County,  Texas",226758,29.2,26.2,32.3
+"Linn County,  Iowa",225909,34.5,31.4,37.7
+"Montgomery County,  Alabama",225763,37.7,34,41.2
+"Whatcom County,  Washington",225685,27.8,25.1,30.9

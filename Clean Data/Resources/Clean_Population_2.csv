@@ -1,304 +1,304 @@
 Location,Population
-"Los Angeles County,   California",10105518
-"Cook County,   Illinois",5180493
-"Harris County,   Texas",4698619
-"Maricopa County,   Arizona",4410824
-"San Diego County,   California",3343364
-"Orange County,   California",3185968
-"Miami-Dade County,   Florida",2761581
-"Dallas County,   Texas",2637772
-"Kings County,   New York",2582830
-"Riverside County,   California",2450758
-"Queens County,   New York",2278906
-"King County,   Washington",2233163
-"Clark County,   Nevada",2231647
-"San Bernardino County,   California",2171603
-"Tarrant County,   Texas",2084931
-"Bexar County,   Texas",1986049
-"Broward County,   Florida",1951260
-"Santa Clara County,   California",1937570
-"Wayne County,   Michigan",1753893
-"Alameda County,   California",1666753
-"New York County,   New York",1628701
-"Middlesex County,   Massachusetts",1614714
-"Philadelphia County,   Pennsylvania",1584138
-"Sacramento County,   California",1540975
-"Palm Beach County,   Florida",1485941
-"Suffolk County,   New York",1481093
-"Hillsborough County,   Florida",1436888
-"Bronx County,   New York",1432132
-"Orange County,   Florida",1380645
-"Nassau County,   New York",1358343
-"Franklin County,   Ohio",1310300
-"Hennepin County,   Minnesota",1259428
-"Oakland County,   Michigan",1259201
-"Travis County,   Texas",1248743
-"Cuyahoga County,   Ohio",1243857
-"Allegheny County,   Pennsylvania",1218452
-"Salt Lake County,   Utah",1152633
-"Fairfax County,   Virginia",1150795
-"Contra Costa County,   California",1150215
-"Mecklenburg County,   North Carolina",1093901
-"Wake County,   North Carolina",1092305
-"Montgomery County,   Maryland",1052567
-"Fulton County,   Georgia",1050114
-"Pima County,   Arizona",1039073
-"Collin County,   Texas",1005146
-"St. Louis County,   Missouri",996945
-"Fresno County,   California",994400
-"Honolulu County,   Hawaii",980080
-"Pinellas County,   Florida",975280
-"Westchester County,   New York",967612
-"Marion County,   Indiana",954670
-"Duval County,   Florida",950181
-"Milwaukee County,   Wisconsin",948201
-"Fairfield County,   Connecticut",943823
-"Bergen County,   New Jersey",936692
-"Shelby County,   Tennessee",935764
-"DuPage County,   Illinois",928589
-"Gwinnett County,   Georgia",927781
-"Erie County,   New York",919719
-"Prince George's County,   Maryland",909308
-"Kern County,   California",896764
-"Hartford County,   Connecticut",892697
-"Pierce County,   Washington",891299
-"San Francisco County,   California",883305
-"Macomb County,   Michigan",874759
-"Hidalgo County,   Texas",865939
-"Denton County,   Texas",859064
-"New Haven County,   Connecticut",857620
-"Ventura County,   California",850967
-"El Paso County,   Texas",840758
-"Worcester County,   Massachusetts",830839
-"Middlesex County,   New Jersey",829685
-"Montgomery County,   Pennsylvania",828604
-"Baltimore County,   Maryland",828431
-"Hamilton County,   Ohio",816684
-"Snohomish County,   Washington",814901
-"Multnomah County,   Oregon",811880
-"Suffolk County,   Massachusetts",807252
-"Essex County,   New Jersey",799767
-"Oklahoma County,   Oklahoma",792582
-"Essex County,   Massachusetts",790638
-"Fort Bend County,   Texas",787858
-"Jefferson County,   Kentucky",770517
-"San Mateo County,   California",769545
-"Cobb County,   Georgia",756865
-"DeKalb County,   Georgia",756558
-"Lee County,   Florida",754610
-"San Joaquin County,   California",752660
-"Monroe County,   New York",742474
-"Denver County,   Colorado",716492
-"El Paso County,   Colorado",713856
-"Polk County,   Florida",708009
-"Norfolk County,   Massachusetts",705388
-"District of Columbia,   District of Columbia",702455
+"LosAngelesCounty,California",10105518
+"CookCounty,Illinois",5180493
+"HarrisCounty,Texas",4698619
+"MaricopaCounty,Arizona",4410824
+"SanDiegoCounty,California",3343364
+"OrangeCounty,California",3185968
+"Miami-DadeCounty,Florida",2761581
+"DallasCounty,Texas",2637772
+"KingsCounty,NewYork",2582830
+"RiversideCounty,California",2450758
+"QueensCounty,NewYork",2278906
+"KingCounty,Washington",2233163
+"ClarkCounty,Nevada",2231647
+"SanBernardinoCounty,California",2171603
+"TarrantCounty,Texas",2084931
+"BexarCounty,Texas",1986049
+"BrowardCounty,Florida",1951260
+"SantaClaraCounty,California",1937570
+"WayneCounty,Michigan",1753893
+"AlamedaCounty,California",1666753
+"NewYorkCounty,NewYork",1628701
+"MiddlesexCounty,Massachusetts",1614714
+"PhiladelphiaCounty,Pennsylvania",1584138
+"SacramentoCounty,California",1540975
+"PalmBeachCounty,Florida",1485941
+"SuffolkCounty,NewYork",1481093
+"HillsboroughCounty,Florida",1436888
+"BronxCounty,NewYork",1432132
+"OrangeCounty,Florida",1380645
+"NassauCounty,NewYork",1358343
+"FranklinCounty,Ohio",1310300
+"HennepinCounty,Minnesota",1259428
+"OaklandCounty,Michigan",1259201
+"TravisCounty,Texas",1248743
+"CuyahogaCounty,Ohio",1243857
+"AlleghenyCounty,Pennsylvania",1218452
+"SaltLakeCounty,Utah",1152633
+"FairfaxCounty,Virginia",1150795
+"ContraCostaCounty,California",1150215
+"MecklenburgCounty,NorthCarolina",1093901
+"WakeCounty,NorthCarolina",1092305
+"MontgomeryCounty,Maryland",1052567
+"FultonCounty,Georgia",1050114
+"PimaCounty,Arizona",1039073
+"CollinCounty,Texas",1005146
+"St.LouisCounty,Missouri",996945
+"FresnoCounty,California",994400
+"HonoluluCounty,Hawaii",980080
+"PinellasCounty,Florida",975280
+"WestchesterCounty,NewYork",967612
+"MarionCounty,Indiana",954670
+"DuvalCounty,Florida",950181
+"MilwaukeeCounty,Wisconsin",948201
+"FairfieldCounty,Connecticut",943823
+"BergenCounty,NewJersey",936692
+"ShelbyCounty,Tennessee",935764
+"DuPageCounty,Illinois",928589
+"GwinnettCounty,Georgia",927781
+"ErieCounty,NewYork",919719
+"PrinceGeorge'sCounty,Maryland",909308
+"KernCounty,California",896764
+"HartfordCounty,Connecticut",892697
+"PierceCounty,Washington",891299
+"SanFranciscoCounty,California",883305
+"MacombCounty,Michigan",874759
+"HidalgoCounty,Texas",865939
+"DentonCounty,Texas",859064
+"NewHavenCounty,Connecticut",857620
+"VenturaCounty,California",850967
+"ElPasoCounty,Texas",840758
+"WorcesterCounty,Massachusetts",830839
+"MiddlesexCounty,NewJersey",829685
+"MontgomeryCounty,Pennsylvania",828604
+"BaltimoreCounty,Maryland",828431
+"HamiltonCounty,Ohio",816684
+"SnohomishCounty,Washington",814901
+"MultnomahCounty,Oregon",811880
+"SuffolkCounty,Massachusetts",807252
+"EssexCounty,NewJersey",799767
+"OklahomaCounty,Oklahoma",792582
+"EssexCounty,Massachusetts",790638
+"FortBendCounty,Texas",787858
+"JeffersonCounty,Kentucky",770517
+"SanMateoCounty,California",769545
+"CobbCounty,Georgia",756865
+"DeKalbCounty,Georgia",756558
+"LeeCounty,Florida",754610
+"SanJoaquinCounty,California",752660
+"MonroeCounty,NewYork",742474
+"DenverCounty,Colorado",716492
+"ElPasoCounty,Colorado",713856
+"PolkCounty,Florida",708009
+"NorfolkCounty,Massachusetts",705388
+"DistrictofColumbia,DistrictofColumbia",702455
 ,702455
-"Lake County,   Illinois",700832
-"Jackson County,   Missouri",700307
-"Davidson County,   Tennessee",692587
-"Will County,   Illinois",692310
-"Bernalillo County,   New Mexico",678701
-"Hudson County,   New Jersey",676061
-"Jefferson County,   Alabama",659300
-"Kent County,   Michigan",653786
-"Arapahoe County,   Colorado",651215
-"Tulsa County,   Oklahoma",648360
-"Providence County,   Rhode Island",636084
-"Bucks County,   Pennsylvania",628195
-"Utah County,   Utah",622213
-"Monmouth County,   New Jersey",621354
-"Baltimore city,   Maryland",602495
-"Ocean County,   New Jersey",601651
-"Washington County,   Oregon",597695
-"Johnson County,   Kansas",597555
-"Brevard County,   Florida",596849
-"Montgomery County,   Texas",590925
-"Jefferson County,   Colorado",580233
-"Anne Arundel County,   Maryland",576031
-"Douglas County,   Nebraska",566880
-"Williamson County,   Texas",566719
-"Delaware County,   Pennsylvania",564751
-"Bristol County,   Massachusetts",564022
-"New Castle County,   Delaware",559335
-"Union County,   New Jersey",558067
-"Ramsey County,   Minnesota",550210
-"Stanislaus County,   California",549815
-"Volusia County,   Florida",547538
-"Lancaster County,   Pennsylvania",543557
-"Dane County,   Wisconsin",542364
-"Summit County,   Ohio",541918
-"Pasco County,   Florida",539630
-"Kane County,   Illinois",534216
-"Guilford County,   North Carolina",533670
-"Montgomery County,   Ohio",532331
-"Chester County,   Pennsylvania",522046
-"Plymouth County,   Massachusetts",518132
-"Spokane County,   Washington",514631
-"Greenville County,   South Carolina",514213
-"Sedgwick County,   Kansas",513607
-"Adams County,   Colorado",511868
-"Camden County,   New Jersey",507078
-"Passaic County,   New Jersey",503310
-"Sonoma County,   California",499942
-"Morris County,   New Jersey",494228
-"Polk County,   Iowa",487204
-"Lake County,   Indiana",484411
-"Clark County,   Washington",481857
-"Richmond County,   New York",476179
-"Hampden County,   Massachusetts",470406
-"Ada County,   Idaho",469966
-"Prince William County,   Virginia",468011
-"Seminole County,   Florida",467832
-"Tulare County,   California",465861
-"Washoe County,   Nevada",465735
-"Knox County,   Tennessee",465289
-"Onondaga County,   New York",461809
-"Virginia Beach city,   Virginia",450189
-"York County,   Pennsylvania",448273
-"Pinal County,   Arizona",447138
-"Solano County,   California",446610
-"Santa Barbara County,   California",446527
-"Burlington County,   New Jersey",445384
-"East Baton Rouge Parish,   Louisiana",440956
-"Monterey County,   California",435594
-"Jefferson Parish,   Louisiana",434051
-"Lucas County,   Ohio",429899
-"Sarasota County,   Florida",426718
-"Dakota County,   Minnesota",425423
-"Cameron County,   Texas",423908
-"Berks County,   Pennsylvania",420152
-"Clackamas County,   Oregon",416075
-"Hillsborough County,   New Hampshire",415247
-"Richland County,   South Carolina",414576
-"Mobile County,   Alabama",413757
-"Genesee County,   Michigan",406892
-"Loudoun County,   Virginia",406850
-"Charleston County,   South Carolina",405905
-"Waukesha County,   Wisconsin",403072
-"St. Charles County,   Missouri",399182
-"Manatee County,   Florida",394855
-"Placer County,   California",393149
-"Pulaski County,   Arkansas",392680
-"Orleans Parish,   Louisiana",391006
-"Butler County,   Ohio",382378
-"Orange County,   New York",381951
-"Lane County,   Oregon",379611
-"Forsyth County,   North Carolina",379099
-"Collier County,   Florida",378488
-"Allen County,   Indiana",375351
-"Stark County,   Ohio",371574
-"Washtenaw County,   Michigan",370963
-"Brazoria County,   Texas",370200
-"Mercer County,   New Jersey",369811
-"Lehigh County,   Pennsylvania",368100
-"Osceola County,   Florida",367990
-"Madison County,   Alabama",366519
-"Hamilton County,   Tennessee",364286
-"Nueces County,   Texas",362265
-"Marion County,   Florida",359977
-"Lake County,   Florida",356495
-"Bell County,   Texas",355642
-"Anoka County,   Minnesota",353813
-"Davis County,   Utah",351713
-"Westmoreland County,   Pennsylvania",350611
-"Larimer County,   Colorado",350518
-"Chesterfield County,   Virginia",348556
-"Marion County,   Oregon",346868
-"Horry County,   South Carolina",344147
-"Douglas County,   Colorado",342776
-"Galveston County,   Texas",337890
-"Cumberland County,   North Carolina",332330
-"Somerset County,   New Jersey",331164
-"Hamilton County,   Indiana",330086
-"Henrico County,   Virginia",329261
-"Boulder County,   Colorado",326078
-"Rockland County,   New York",325695
-"Rutherford County,   Tennessee",324890
-"Fayette County,   Kentucky",323780
-"Howard County,   Maryland",323196
-"St. Lucie County,   Florida",321128
-"Luzerne County,   Pennsylvania",317646
-"Lancaster County,   Nebraska",317272
-"Durham County,   North Carolina",316739
-"Escambia County,   Florida",315534
-"Weld County,   Colorado",314305
-"Spartanburg County,   South Carolina",313888
-"Lorain County,   Ohio",309461
-"Rockingham County,   New Hampshire",309176
-"McHenry County,   Illinois",308570
-"Lubbock County,   Texas",307412
-"Albany County,   New York",307117
-"Northampton County,   Pennsylvania",304807
-"St. Louis city,   Missouri",302838
-"Lexington County,   South Carolina",295032
-"Dutchess County,   New York",293718
-"Cumberland County,   Maine",293557
-"Ingham County,   Michigan",292735
-"Leon County,   Florida",292502
-"Greene County,   Missouri",291923
-"Anchorage Municipality,   Alaska",291538
-"Gloucester County,   New Jersey",291408
-"Ottawa County,   Michigan",290494
-"Clayton County,   Georgia",289615
-"Chatham County,   Georgia",289195
-"Thurston County,   Washington",286419
-"Winnebago County,   Illinois",284081
-"San Luis Obispo County,   California",284010
-"Cleveland County,   Oklahoma",281669
-"Dauphin County,   Pennsylvania",277097
-"Webb County,   Texas",275910
-"Merced County,   California",274765
-"Santa Cruz County,   California",274255
-"York County,   South Carolina",274118
-"Benton County,   Arkansas",272608
-"Erie County,   Pennsylvania",272061
-"St. Joseph County,   Indiana",270771
-"Alachua County,   Florida",269956
-"Kitsap County,   Washington",269805
-"New London County,   Connecticut",266784
-"Atlantic County,   New Jersey",265429
-"Kalamazoo County,   Michigan",264870
-"Madison County,   Illinois",264461
-"Brown County,   Wisconsin",263378
-"St. Clair County,   Illinois",261059
-"Marin County,   California",259666
-"Washington County,   Minnesota",259201
-"Buncombe County,   North Carolina",259103
-"St. Tammany Parish,   Louisiana",258111
-"Weber County,   Utah",256359
-"Frederick County,   Maryland",255648
-"Jefferson County,   Texas",255001
-"McLennan County,   Texas",254607
-"St. Johns County,   Florida",254261
-"Cherokee County,   Georgia",254149
-"Harford County,   Maryland",253956
-"Yakima County,   Washington",251446
-"Cumberland County,   Pennsylvania",251423
-"Clay County,   Missouri",246365
-"Norfolk city,   Virginia",244076
-"Caddo Parish,   Louisiana",242922
-"Lafayette Parish,   Louisiana",242782
-"Chesapeake city,   Virginia",242634
-"Arlington County,   Virginia",237521
-"Hinds County,   Mississippi",237085
-"Washington County,   Arkansas",236961
-"Forsyth County,   Georgia",236612
-"Union County,   North Carolina",235908
-"New Hanover County,   North Carolina",232274
-"Warren County,   Ohio",232173
-"Yavapai County,   Arizona",231993
-"Williamson County,   Tennessee",231729
-"Butte County,   California",231256
-"Lake County,   Ohio",230514
-"Smith County,   Texas",230221
-"Henry County,   Georgia",230220
-"Saratoga County,   New York",230163
-"Mahoning County,   Ohio",229642
-"Oneida County,   New York",229577
-"Sussex County,   Delaware",229286
-"Richmond city,   Virginia",228783
-"Brazos County,   Texas",226758
-"Linn County,   Iowa",225909
-"Montgomery County,   Alabama",225763
-"Whatcom County,   Washington",225685
+"LakeCounty,Illinois",700832
+"JacksonCounty,Missouri",700307
+"DavidsonCounty,Tennessee",692587
+"WillCounty,Illinois",692310
+"BernalilloCounty,NewMexico",678701
+"HudsonCounty,NewJersey",676061
+"JeffersonCounty,Alabama",659300
+"KentCounty,Michigan",653786
+"ArapahoeCounty,Colorado",651215
+"TulsaCounty,Oklahoma",648360
+"ProvidenceCounty,RhodeIsland",636084
+"BucksCounty,Pennsylvania",628195
+"UtahCounty,Utah",622213
+"MonmouthCounty,NewJersey",621354
+"Baltimorecity,Maryland",602495
+"OceanCounty,NewJersey",601651
+"WashingtonCounty,Oregon",597695
+"JohnsonCounty,Kansas",597555
+"BrevardCounty,Florida",596849
+"MontgomeryCounty,Texas",590925
+"JeffersonCounty,Colorado",580233
+"AnneArundelCounty,Maryland",576031
+"DouglasCounty,Nebraska",566880
+"WilliamsonCounty,Texas",566719
+"DelawareCounty,Pennsylvania",564751
+"BristolCounty,Massachusetts",564022
+"NewCastleCounty,Delaware",559335
+"UnionCounty,NewJersey",558067
+"RamseyCounty,Minnesota",550210
+"StanislausCounty,California",549815
+"VolusiaCounty,Florida",547538
+"LancasterCounty,Pennsylvania",543557
+"DaneCounty,Wisconsin",542364
+"SummitCounty,Ohio",541918
+"PascoCounty,Florida",539630
+"KaneCounty,Illinois",534216
+"GuilfordCounty,NorthCarolina",533670
+"MontgomeryCounty,Ohio",532331
+"ChesterCounty,Pennsylvania",522046
+"PlymouthCounty,Massachusetts",518132
+"SpokaneCounty,Washington",514631
+"GreenvilleCounty,SouthCarolina",514213
+"SedgwickCounty,Kansas",513607
+"AdamsCounty,Colorado",511868
+"CamdenCounty,NewJersey",507078
+"PassaicCounty,NewJersey",503310
+"SonomaCounty,California",499942
+"MorrisCounty,NewJersey",494228
+"PolkCounty,Iowa",487204
+"LakeCounty,Indiana",484411
+"ClarkCounty,Washington",481857
+"RichmondCounty,NewYork",476179
+"HampdenCounty,Massachusetts",470406
+"AdaCounty,Idaho",469966
+"PrinceWilliamCounty,Virginia",468011
+"SeminoleCounty,Florida",467832
+"TulareCounty,California",465861
+"WashoeCounty,Nevada",465735
+"KnoxCounty,Tennessee",465289
+"OnondagaCounty,NewYork",461809
+"VirginiaBeachcity,Virginia",450189
+"YorkCounty,Pennsylvania",448273
+"PinalCounty,Arizona",447138
+"SolanoCounty,California",446610
+"SantaBarbaraCounty,California",446527
+"BurlingtonCounty,NewJersey",445384
+"EastBatonRougeParish,Louisiana",440956
+"MontereyCounty,California",435594
+"JeffersonParish,Louisiana",434051
+"LucasCounty,Ohio",429899
+"SarasotaCounty,Florida",426718
+"DakotaCounty,Minnesota",425423
+"CameronCounty,Texas",423908
+"BerksCounty,Pennsylvania",420152
+"ClackamasCounty,Oregon",416075
+"HillsboroughCounty,NewHampshire",415247
+"RichlandCounty,SouthCarolina",414576
+"MobileCounty,Alabama",413757
+"GeneseeCounty,Michigan",406892
+"LoudounCounty,Virginia",406850
+"CharlestonCounty,SouthCarolina",405905
+"WaukeshaCounty,Wisconsin",403072
+"St.CharlesCounty,Missouri",399182
+"ManateeCounty,Florida",394855
+"PlacerCounty,California",393149
+"PulaskiCounty,Arkansas",392680
+"OrleansParish,Louisiana",391006
+"ButlerCounty,Ohio",382378
+"OrangeCounty,NewYork",381951
+"LaneCounty,Oregon",379611
+"ForsythCounty,NorthCarolina",379099
+"CollierCounty,Florida",378488
+"AllenCounty,Indiana",375351
+"StarkCounty,Ohio",371574
+"WashtenawCounty,Michigan",370963
+"BrazoriaCounty,Texas",370200
+"MercerCounty,NewJersey",369811
+"LehighCounty,Pennsylvania",368100
+"OsceolaCounty,Florida",367990
+"MadisonCounty,Alabama",366519
+"HamiltonCounty,Tennessee",364286
+"NuecesCounty,Texas",362265
+"MarionCounty,Florida",359977
+"LakeCounty,Florida",356495
+"BellCounty,Texas",355642
+"AnokaCounty,Minnesota",353813
+"DavisCounty,Utah",351713
+"WestmorelandCounty,Pennsylvania",350611
+"LarimerCounty,Colorado",350518
+"ChesterfieldCounty,Virginia",348556
+"MarionCounty,Oregon",346868
+"HorryCounty,SouthCarolina",344147
+"DouglasCounty,Colorado",342776
+"GalvestonCounty,Texas",337890
+"CumberlandCounty,NorthCarolina",332330
+"SomersetCounty,NewJersey",331164
+"HamiltonCounty,Indiana",330086
+"HenricoCounty,Virginia",329261
+"BoulderCounty,Colorado",326078
+"RocklandCounty,NewYork",325695
+"RutherfordCounty,Tennessee",324890
+"FayetteCounty,Kentucky",323780
+"HowardCounty,Maryland",323196
+"St.LucieCounty,Florida",321128
+"LuzerneCounty,Pennsylvania",317646
+"LancasterCounty,Nebraska",317272
+"DurhamCounty,NorthCarolina",316739
+"EscambiaCounty,Florida",315534
+"WeldCounty,Colorado",314305
+"SpartanburgCounty,SouthCarolina",313888
+"LorainCounty,Ohio",309461
+"RockinghamCounty,NewHampshire",309176
+"McHenryCounty,Illinois",308570
+"LubbockCounty,Texas",307412
+"AlbanyCounty,NewYork",307117
+"NorthamptonCounty,Pennsylvania",304807
+"St.Louiscity,Missouri",302838
+"LexingtonCounty,SouthCarolina",295032
+"DutchessCounty,NewYork",293718
+"CumberlandCounty,Maine",293557
+"InghamCounty,Michigan",292735
+"LeonCounty,Florida",292502
+"GreeneCounty,Missouri",291923
+"AnchorageMunicipality,Alaska",291538
+"GloucesterCounty,NewJersey",291408
+"OttawaCounty,Michigan",290494
+"ClaytonCounty,Georgia",289615
+"ChathamCounty,Georgia",289195
+"ThurstonCounty,Washington",286419
+"WinnebagoCounty,Illinois",284081
+"SanLuisObispoCounty,California",284010
+"ClevelandCounty,Oklahoma",281669
+"DauphinCounty,Pennsylvania",277097
+"WebbCounty,Texas",275910
+"MercedCounty,California",274765
+"SantaCruzCounty,California",274255
+"YorkCounty,SouthCarolina",274118
+"BentonCounty,Arkansas",272608
+"ErieCounty,Pennsylvania",272061
+"St.JosephCounty,Indiana",270771
+"AlachuaCounty,Florida",269956
+"KitsapCounty,Washington",269805
+"NewLondonCounty,Connecticut",266784
+"AtlanticCounty,NewJersey",265429
+"KalamazooCounty,Michigan",264870
+"MadisonCounty,Illinois",264461
+"BrownCounty,Wisconsin",263378
+"St.ClairCounty,Illinois",261059
+"MarinCounty,California",259666
+"WashingtonCounty,Minnesota",259201
+"BuncombeCounty,NorthCarolina",259103
+"St.TammanyParish,Louisiana",258111
+"WeberCounty,Utah",256359
+"FrederickCounty,Maryland",255648
+"JeffersonCounty,Texas",255001
+"McLennanCounty,Texas",254607
+"St.JohnsCounty,Florida",254261
+"CherokeeCounty,Georgia",254149
+"HarfordCounty,Maryland",253956
+"YakimaCounty,Washington",251446
+"CumberlandCounty,Pennsylvania",251423
+"ClayCounty,Missouri",246365
+"Norfolkcity,Virginia",244076
+"CaddoParish,Louisiana",242922
+"LafayetteParish,Louisiana",242782
+"Chesapeakecity,Virginia",242634
+"ArlingtonCounty,Virginia",237521
+"HindsCounty,Mississippi",237085
+"WashingtonCounty,Arkansas",236961
+"ForsythCounty,Georgia",236612
+"UnionCounty,NorthCarolina",235908
+"NewHanoverCounty,NorthCarolina",232274
+"WarrenCounty,Ohio",232173
+"YavapaiCounty,Arizona",231993
+"WilliamsonCounty,Tennessee",231729
+"ButteCounty,California",231256
+"LakeCounty,Ohio",230514
+"SmithCounty,Texas",230221
+"HenryCounty,Georgia",230220
+"SaratogaCounty,NewYork",230163
+"MahoningCounty,Ohio",229642
+"OneidaCounty,NewYork",229577
+"SussexCounty,Delaware",229286
+"Richmondcity,Virginia",228783
+"BrazosCounty,Texas",226758
+"LinnCounty,Iowa",225909
+"MontgomeryCounty,Alabama",225763
+"WhatcomCounty,Washington",225685
